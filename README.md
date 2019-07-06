@@ -1,8 +1,10 @@
 # Georgia Tech Logo Projection using Homography
 
-Mini project to project Georgia Tech logo on a video using homography.
+Project to project Georgia Tech logo on a goal post in a football match video using homography.
 
 Data taken from Upenn Robotics Perception course.
+
+None of the package functions are used
 
 ### Prerequisites
 
