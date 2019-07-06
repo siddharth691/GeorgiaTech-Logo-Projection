@@ -278,6 +278,9 @@ int main()
 		cv::imwrite(write_file_name, projected_image);
 
 	}
+
+
+	//saving a video file
 	
 	return 0;
 }
