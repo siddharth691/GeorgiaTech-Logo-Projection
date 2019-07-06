@@ -6,9 +6,9 @@ Data taken from Upenn Robotics Perception course.
 
 ### Prerequisites
 
-OpenCV
-Eigen
-STL
+* OpenCV
+* Eigen
+* STL
 
 
 ## Getting Started
@@ -20,7 +20,6 @@ sudo cmake ..
 sudo make clean
 sudo make
 ./logo_project
-
 ```
 This would save the projected images in the images folder
 
