@@ -1,4 +1,4 @@
-# Project Title
+# Georgia Tech Logo Projection using Homography
 
 Mini project to project Georgia Tech logo on a video using homography.
 
@@ -28,12 +28,12 @@ This would save the projected images in the images folder
 Original Video
 
 <p align="center">
-  <img src="https://github.com/siddharth691/GeorgiaTech-Logo-Projection/blob/master/initial.avi">
+  <img src="https://github.com/siddharth691/GeorgiaTech-Logo-Projection/blob/master/initial.gif">
 </p>
 
-Projected Vide
+Projected Video
 
 <p align="center">
-  <img src="https://github.com/siddharth691/GeorgiaTech-Logo-Projection/blob/master/final.avi">
+  <img src="https://github.com/siddharth691/GeorgiaTech-Logo-Projection/blob/master/final.gif">
 </p>	
 
